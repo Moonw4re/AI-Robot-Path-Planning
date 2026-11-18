@@ -1,4 +1,3 @@
- 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B46,100:6046A8&height=220&section=header&text=AI%20Robot%20Path%20Planning&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=MOONW4RE%20%2F%2F%20PROJECT%2007&descAlignY=65" width="100%"/>
