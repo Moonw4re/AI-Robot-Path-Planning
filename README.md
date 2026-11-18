@@ -227,7 +227,43 @@ The system successfully demonstrated autonomous navigation, object collection, t
 
 The system automatically selected DFS for the reported sample run, while A* was recommended for general-purpose optimal path planning.
 
+
 ---
+
+## 11.1 // Implementation and Results
+
+### 01 - System Architecture
+
+The system architecture illustrates the interaction between MapServer, Robot Agent, MazeViewer, and the Comparison Runner.
+
+<img src="./IMG_7956.png" width="100%"/>
+
+### 02 - Algorithm Comparison - DFS
+
+The system evaluates search algorithm performance based on expanded nodes, path length, execution time, and movement cost.
+
+<img src="./IMG_7957.png" width="100%"/>
+
+### 03 - DFS Maze Navigation
+
+The visualization demonstrates autonomous robot navigation and path reconstruction using Depth-First Search.
+
+<img src="./IMG_7958.png" width="100%"/>
+
+### 04 - Algorithm Comparison - Greedy Search
+
+The performance results demonstrate heuristic-based search and node exploration efficiency.
+
+<img src="./IMG_7959.png" width="100%"/>
+
+### 05 - Greedy Maze Navigation
+
+The graphical simulation demonstrates autonomous maze navigation using Greedy Best-First Search.
+
+<img src="./IMG_7960.png" width="100%"/>
+
+---
+
 
 ## 12 // System Features
 
